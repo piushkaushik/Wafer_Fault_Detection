@@ -8,7 +8,7 @@ class File_Operation:
                 This class shall be used to save the model after training
                 and load the saved model for prediction.
 
-                Written By: iNeuron Intelligence
+                Written By: Piush Kuamar Sharma
                 Version: 1.0
                 Revisions: None
 
