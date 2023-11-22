@@ -34,7 +34,7 @@ Additionally, a refinement process involves the removal of columns exhibiting a 
 This step involves identifying similar entries in a dataset to form distinct clusters, enabling the training of separate models for each cluster. Utilizing K-Means on preprocessed data enhances accuracy by grouping similar data. The resulting models are saved for future use, optimizing overall efficiency and adaptability.
 
 ## Model Selection:
-In this phase, post cluster creation, optimal models for each cluster are determined. Employing RandomForest and XGBoost algorithms, Grid Search CV is conducted to identify the best parameters for both models. Subsequently, model accuracies are compared, facilitating the selection of the superior-performing model.
+In this phase, post cluster creation, optimal models for each cluster are determined. Employing RandomForest and XGBoost algorithms, Grid Search CV is conducted to identify the best parameters for both models. Subsequently, model accuracies are compared, facilitating the selection of the superior-performing model...
 
 ## Model Prediction:
 
