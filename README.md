@@ -1,7 +1,7 @@
 # Wafer Fault Detection Project
 ![Silicon-Wafers](https://github.com/piushkaushik/Wafer_Fault_Detection/assets/95517586/fe84685b-8916-4876-a767-f81c0a32b0f6)
 
-**I developed this project as part of my internship at iNeuron.ai, showcasing my proficiency and practical application of skills in a professional setting.**
+**I developed this project with the help of iNeuron.ai, showcasing my proficiency and practical application of skills in a professional setting.**
 ## Problem Statement:
 The challenge at hand involves leveraging data collected from diverse sensors across multiple wafers used in electronic manufacturing. A wafer, essentially a thin semiconductor slice, serves as a crucial component in the production of integrated circuits. The objective is to construct a robust machine learning model capable of predicting the operational status of a given wafer, discerning whether replacement is necessary. The provided dataset comprises inputs from various sensors, and the binary classification task involves assigning one of two classes: +1, indicating that the wafer is in optimal working condition and does not require replacement; or -1, signifying a faulty wafer that necessitates replacement. The overarching goal is to develop a predictive model that enhances the efficiency of quality control in semiconductor manufacturing processes.
 
